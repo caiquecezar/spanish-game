@@ -4,5 +4,8 @@
 
 Subindo esse joguinho que eu fiz no segundo ano da faculdade (2013) para não perde-lo.
 
-Basicamente ele consistia em palavras em espanhol que "caíam" e o jogador tinha que digitar corretamente a tradução de alguma palavra da tela, caso o jogador deixasse alguma palavra passar, ele perdia pontos de vida, caso acertasse, ganhava estrelas. O jogo terminava quando o jogador não tinha mais pontos de vida.
-Tudo foi feito, incrivelmente, com Swing e base de dados em arquivos .txt. 
+A idéia era fazer uso de todos os conceitos ensinados na disciplina de Programação Orientada a Objeto. Além disso, usei Swing para criar a interface, threads para movimentar os componentes Swing e usei uma base de dados baseada em arquivos. 
+
+## Sobre o jogo
+
+Basicamente ele consiste em palavras em espanhol que "caíam" e o jogador tem que digitar corretamente a tradução de alguma palavra que estava sendo exibida na tela, caso o jogador deixe alguma palavra passar (chegar no fundo da tela), ele perde pontos de vida, caso acerte, ganha estrelas. O jogo termina quando o jogador não tinha mais pontos de vida.
